@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "901879536096",
+    "firebase_url": "https://e-cigsvape-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-cigsvape",
+    "storage_bucket": "e-cigsvape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901879536096:android:a86db35b93bee1892bb385",
+        "android_client_info": {
+          "package_name": "e_cigs.system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901879536096-09sr8d4qs0gtgcot5tvr37qi8cmdbcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFysnNn-OD7upiAbLZHSWX-ThA6cf8WNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901879536096-09sr8d4qs0gtgcot5tvr37qi8cmdbcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901879536096:android:333ca1ffa6908e552bb385",
+        "android_client_info": {
+          "package_name": "ecigs.system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901879536096-09sr8d4qs0gtgcot5tvr37qi8cmdbcv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFysnNn-OD7upiAbLZHSWX-ThA6cf8WNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901879536096-09sr8d4qs0gtgcot5tvr37qi8cmdbcv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
